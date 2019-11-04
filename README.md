@@ -16,7 +16,7 @@ or
 
 - For the widget versions, either execute all the cells or clic on the "appmode" button
 
-# 4 python noteboooks: 
+# The 4 python notebooks: 
 
 -Script_Schrödinger_Ind : 
  Numerical resolution of the time-independant Schrödinger equation for various potentials (sequential programming).
