@@ -18,16 +18,16 @@ or
 
 # The 4 python notebooks: 
 
--Script_Schrödinger_Ind : 
+-Script_Schrödinger_Ind: 
  Numerical resolution of the time-independant Schrödinger equation for various potentials (sequential programming).
 
-- Widget_Schrödinger_Ind : 
+- Widget_Schrödinger_Ind: 
 Numerical resolution of the time-independant Schrödinger equation for various potentials (continuous update of the parameters).
 
-- Script_Schrödinger_Dep :
+- Script_Schrödinger_Dep:
 - Time evolution of a wave packet: numerical resolution of the time-dependant Schrödinger equation (sequential programming).
 
-- Widget_Schrödinger_Dep :
+- Widget_Schrödinger_Dep:
  Time evolution of a wave packet: numerical resolution of the time-dependant Schrödinger equation.
  Push the 'compute' button after selection of the potential and its parameters 
  Once the simulation is complete (see the hourglass in the tab), you can use the time slider ou the player to see the wave packet evolution
