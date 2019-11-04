@@ -1,0 +1,12 @@
+name: Schroedinger_env
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - ipympl
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - appmode
+
