@@ -1,5 +1,5 @@
 # App_Schroedinger
- - Numericals simulations of the Schroëdinger equations with python notebooks ('.ipnyb' files). 
+ - Numerical simulations of the Schroëdinger equations with python notebooks ('.ipnyb' files). 
  
 # How to the run the simulations
  - Clic on the binder icon to launch the jupyter notebooks  online (it can be slow to run).
