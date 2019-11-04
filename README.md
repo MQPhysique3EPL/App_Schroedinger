@@ -8,7 +8,7 @@
 
 or 
 
-- Download the notebookds on your computer and install the required python packages listed in "requirement.yml". The easiest way is to install Anaconda (www.anaconda.com). Then, whith the anaconda prompt, install the libraries with the following command: "conda install -c conda-forge ipywidgets ipympl matplotlib numpy scipy pandas appmode". Next, open anaconda and launch the jupyter notebook subprogram. Finally, open one of the four notebooks.
+- Download the notebooks on your computer and install the required python packages listed in "requirement.yml". The easiest way is to install Anaconda (www.anaconda.com). Then, whith the anaconda prompt, install the libraries with the following command: "conda install -c conda-forge ipywidgets ipympl matplotlib numpy scipy pandas appmode". Next, open anaconda and launch the jupyter notebook subprogram. Finally, open one of the four python notebooks.
 
 - For each program, there is a "script" versions (procedural programming) and a "widget" versions (more object oriented and more interactive but could unstable...)
 
