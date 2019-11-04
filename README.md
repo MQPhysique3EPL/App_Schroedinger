@@ -18,8 +18,8 @@ or
 
 # The 4 python notebooks: 
 
--Script_Schrödinger_Ind: 
- Numerical resolution of the time-independant Schrödinger equation for various potentials (sequential programming).
+ - Script_Schrödinger_Ind: 
+  Numerical resolution of the time-independant Schrödinger equation for various potentials (sequential programming).
  
  - Widget_Schrödinger_Ind:
     Numerical resolution of the time-independant Schrödinger equation for various potentials (continuous update of the parameters). 
