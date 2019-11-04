@@ -20,9 +20,9 @@ or
 
 -Script_Schrödinger_Ind: 
  Numerical resolution of the time-independant Schrödinger equation for various potentials (sequential programming).
-
-- Widget_Schrödinger_Ind:
-  Numerical resolution of the time-independant Schrödinger equation for various potentials (continuous update of the parameters).
+ 
+ - Widget_Schrödinger_Ind:
+    Numerical resolution of the time-independant Schrödinger equation for various potentials (continuous update of the parameters). 
 
 - Script_Schrödinger_Dep:
   Time evolution of a wave packet: numerical resolution of the time-dependant Schrödinger equation (sequential programming).
