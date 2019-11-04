@@ -1,8 +1,9 @@
 # App_Schroedinger
- - Numericals simulations of the Schroëdinger equations with python notebooks. 
+ - Numericals simulations of the Schroëdinger equations with python notebooks ('.ipnyb' files). 
  
 # How to the run the simulations
- - Clic on the binder icon to launch the jupyter notebooks ('.ipnyb' files) online. (it can be slow to run)
+ - Clic on the binder icon to launch the jupyter notebooks  online (it can be slow to run).
+ 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MQPhysique3EPL/App_Schroedinger/master)
 or 
 - Or download the notebookds on your computer and install the required python packages listed in "requirement.yml". The easiest way is to install Anaconda (www.anaconda.com). Then, whith the anaconda prompt, install the libraries with the following command: "conda install -c conda-forge ipywidgets ipympl matplotlib numpy scipy pandas appmode". Next, open anaconda and launch the jupyter notebook subprogram. Finally, open one of the four notebooks.
