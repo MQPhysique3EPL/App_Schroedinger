@@ -4,7 +4,7 @@
 # How to the run the simulations
  - Clic on the binder icon to launch the jupyter notebooks  online (it can be slow to run).
  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MQPhysique3EPL/App_Schroedinger/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/MQPhysique3EPL/App_Schroedinger/master)
 
 or 
 
